@@ -1,0 +1,266 @@
+{
+    "0": {
+        "real_id": [
+            13
+        ],
+        "real_name": [
+            "chillout"
+        ]
+    },
+    "1": {
+        "real_id": [
+            18
+        ],
+        "real_name": [
+            "electronic"
+        ]
+    },
+    "2": {
+        "real_id": [
+            73
+        ],
+        "real_name": [
+            "rock"
+        ]
+    },
+    "3": {
+        "real_id": [
+            79
+        ],
+        "real_name": [
+            "alternative"
+        ]
+    },
+    "4": {
+        "real_id": [
+            81
+        ],
+        "real_name": [
+            "indie"
+        ]
+    },
+    "5": {
+        "real_id": [
+            754
+        ],
+        "real_name": [
+            "vocalist"
+        ]
+    },
+    "6": {
+        "real_id": [
+            103
+        ],
+        "real_name": [
+            "rap"
+        ]
+    },
+    "7": {
+        "real_id": [
+            167
+        ],
+        "real_name": [
+            "rnb"
+        ]
+    },
+    "8": {
+        "real_id": [
+            625
+        ],
+        "real_name": [
+            "soul"
+        ]
+    },
+    "9": {
+        "real_id": [
+            527
+        ],
+        "real_name": [
+            "classic"
+        ]
+    },
+    "10": {
+        "real_id": [
+            24
+        ],
+        "real_name": [
+            "pop"
+        ]
+    },
+    "11": {
+        "real_id": [
+            83
+        ],
+        "real_name": [
+            "jazz"
+        ]
+    },
+    "12": {
+        "real_id": [
+            185
+        ],
+        "real_name": [
+            "acoustic"
+        ]
+    },
+    "13": {
+        "real_id": [
+            1
+        ],
+        "real_name": [
+            "metal"
+        ]
+    },
+    "14": {
+        "real_id": [
+            61
+        ],
+        "real_name": [
+            "industrial"
+        ]
+    },
+    "15": {
+        "real_id": [
+            181
+        ],
+        "real_name": [
+            "punk"
+        ]
+    },
+    "16": {
+        "real_id": [
+            184
+        ],
+        "real_name": [
+            "soundtrack"
+        ]
+    },
+    "17": {
+        "real_id": [
+            191
+        ],
+        "real_name": [
+            "instrumental"
+        ]
+    },
+    "18": {
+        "real_id": [
+            16
+        ],
+        "real_name": [
+            "new wave"
+        ]
+    },
+    "19": {
+        "real_id": [
+            25
+        ],
+        "real_name": [
+            "80s"
+        ]
+    },
+    "20": {
+        "real_id": [
+            352
+        ],
+        "real_name": [
+            "90s"
+        ]
+    },
+    "21": {
+        "real_id": [
+            210
+        ],
+        "real_name": [
+            "00s"
+        ]
+    },
+    "22": {
+        "real_id": [
+            134
+        ],
+        "real_name": [
+            "singer-songwriter"
+        ]
+    },
+    "23": {
+        "real_id": [
+            292
+        ],
+        "real_name": [
+            "folk"
+        ]
+    },
+    "24": {
+        "real_id": [
+            39
+        ],
+        "real_name": [
+            "dance"
+        ]
+    },
+    "25": {
+        "real_id": [
+            74
+        ],
+        "real_name": [
+            "synthpop"
+        ]
+    },
+    "26": {
+        "real_id": [
+            14
+        ],
+        "real_name": [
+            "ambient"
+        ]
+    },
+    "27": {
+        "real_id": [
+            247
+        ],
+        "real_name": [
+            "60s"
+        ]
+    },
+    "28": {
+        "real_id": [
+            33
+        ],
+        "real_name": [
+            "experimental"
+        ]
+    },
+    "29": {
+        "real_id": [
+            194
+        ],
+        "real_name": [
+            "hardcore"
+        ]
+    },
+    "30": {
+        "real_id": [
+            389
+        ],
+        "real_name": [
+            "britpop"
+        ]
+    },
+    "31": {
+        "real_id": [
+            829
+        ],
+        "real_name": [
+            "blues"
+        ]
+    },
+    "32": {
+        "real_id": [
+            376
+        ],
+        "real_name": [
+            "metalcore"
+        ]
+    }
+}
