@@ -1,0 +1,18 @@
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.6327499999999999
+Testing SR@10: 0.90025
+Testing SR@15: 0.968
+Testing Avg@T: 4.95125
+Testing hDCG: 0.48186957686517146
+Testing time: 700.9810121059418
+================================
+===========Test===============
+Testing 3999 user tuples
+Testing SR@5: 0.63825
+Testing SR@10: 0.909
+Testing SR@15: 0.971
+Testing Avg@T: 4.87875
+Testing hDCG: 0.48237330406646367
+Testing time: 721.2755255699158
+================================
