@@ -1,8 +1,8 @@
 # DAHCR
 
 The implementation of _Towards Hierarchical Policy Learning for Conversational Recommendation with
-Reinforcement Learning_. 
-
+Reinforcement Learning_. (ICAI 2023)
+The code is partially referred to https://github.com/dengyang17/unicorn.git
 ##Environment Settings
 python: 3.7.1
 
